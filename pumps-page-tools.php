@@ -48,7 +48,7 @@ function end_part() {
     </button>
  </body>
 </html>
-    <script src="../a3/phoneno-validation.js"></script>
+    <script src="phoneno-validation.js"></script>
 ROUGETHREE;
   echo $output;
 }
